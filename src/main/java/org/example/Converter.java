@@ -1,6 +1,6 @@
 package org.example;
 
-public class Division4 {
+public class Converter {
     public static void main(String[] args) {
         int x = 19;
         int y = 9;
