@@ -1,4 +1,4 @@
-package org.example;
+package org.example.homework3;
 
 public class SimpleCalculator {
     public static void main(String[] args) {
